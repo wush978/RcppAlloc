@@ -1,0 +1,5 @@
+export(get_ralloc_map)
+export(get_ralloc_vec)
+export(get_stl_map)
+export(get_stl_vec)
+useDynLib(RcppAlloc)
